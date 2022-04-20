@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.agordillo.AllTestsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.949 s - in com.agordillo.AllTestsTest
